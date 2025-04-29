@@ -1,0 +1,8 @@
+[
+    {
+        "id": 1,
+        "nom": "Admin",
+        "email": "admin@admin.com",
+        "password": "scrypt:32768:8:1$nHBvF3LmLqi7J3Vz$045b112b302319c4014af14f9797ad25f4ba610b5d054899616f6bbab2c969fb7a660b4a88931e5de768de02ee6489a2cfb47a33e74f2d0172f32ea40c94d951"
+    }
+]
